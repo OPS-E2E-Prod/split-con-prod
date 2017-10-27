@@ -1,8 +1,0 @@
-# [Welcome](conceptual/index.md)
-# [docs1](conceptual/docs1/index.md)
-## [content1](conceptual/docs1/content1.md)
-## [content2](conceptual/docs1/content2.md)
-## [content3](conceptual/docs1/content3.md)
-## [content4](conceptual/docs1/content4.md)
-## [test_link_to_ref](conceptual/docs1/test_link_to_ref.md)
-# [docs2](conceptual/docs2/index.md)

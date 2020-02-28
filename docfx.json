@@ -5,6 +5,8 @@
         "files": [
           "**/*.md"
         ],
+        "src": "split",
+        "dest": ".",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
